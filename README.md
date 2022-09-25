@@ -21,11 +21,11 @@ $ python3
 Python 3.8.9 (default, Apr 13 2022, 08:48:07)
 [Clang 13.1.6 (clang-1316.0.21.2.5)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> from just_because import ji
->>> ji('鸡你太美')
+>>> from just_because import ji2zhiyin
+>>> ji2zhiyin('鸡你太美')
 '只因你太美'
->>> from just_because import zhiyin
->>> zhiyin('只因你太美')
+>>> from just_because import zhiyin2ji
+>>> zhiyin2ji('只因你太美')
 '鸡你太美'
 ```
 

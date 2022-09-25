@@ -1,6 +1,6 @@
 from pytest import mark
 
-from just_because import zhiyin
+from just_because import zhiyin2ji
 
 @mark.parametrize(
     'input_string, output_string', [
@@ -11,8 +11,8 @@ from just_because import zhiyin
         ('他给了我指引', '他给了我鸡'),
     ]
 )
-def test_zhiyin(input_string, output_string):
+def test_zhiyin2ji(input_string, output_string):
     """
     this is the test of function zhiyin.
     """
-    assert zhiyin(input_string) == output_string
+    assert zhiyin2ji(input_string) == output_string

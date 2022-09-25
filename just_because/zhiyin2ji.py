@@ -1,6 +1,6 @@
 from .patterns import zhiyin_pattern
 
-def zhiyin(string: str) -> str:
+def zhiyin2ji(string: str) -> str:
     """
     this function is used to replace zhiyin to 鸡.
     """

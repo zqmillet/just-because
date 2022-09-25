@@ -1,4 +1,4 @@
-from .ji import ji
-from .zhiyin import zhiyin
+from .ji2zhiyin import ji2zhiyin
+from .zhiyin2ji import zhiyin2ji
 
-VERSION = (1, 0, 0)
+VERSION = (1, 0, 1)
