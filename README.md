@@ -16,7 +16,7 @@ pip3 install just-because
 
 ## 使用
 
-``` bash
+``` text
 $ python3
 Python 3.8.9 (default, Apr 13 2022, 08:48:07)
 [Clang 13.1.6 (clang-1316.0.21.2.5)] on darwin
@@ -36,4 +36,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ## 开源协议
 
-<s>开源协议</s>律师函具体内容详见 [MIT](LICENSE).
+<s>律师函</s>开源协议具体内容详见 [MIT](LICENSE).
