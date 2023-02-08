@@ -1,5 +1,11 @@
 # 鸡你太美
 
+[![just because](https://img.shields.io/badge/pypi-just--because-brightgreen)](https://pypi.org/project/just_because/)
+![pytest](https://github.com/zqmillet/just-because/actions/workflows/pytest.yml/badge.svg)
+![mypy](https://github.com/zqmillet/just-because/actions/workflows/mypy.yml/badge.svg)
+![flake8](https://github.com/zqmillet/just-because/actions/workflows/flake8.yml/badge.svg)
+
+
 ## 简介
 
 > 邹忌修八尺有余, 而形貌昳丽. 朝服衣冠, 窥镜, 谓其妻曰: "我孰与城北徐坤美?" 其妻曰: "君美甚, 徐坤何能及君也!" 城北徐坤, 齐国之美丽者也. 忌不自信, 而复问其妾曰: "吾孰与徐坤美?" 妾曰: "徐坤何能及君也!" 旦日, 客从外来, 与坐谈, 问之客曰: "吾与徐坤孰美?" 客曰: "忌你太美!"
